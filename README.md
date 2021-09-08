@@ -64,8 +64,8 @@ Si vous n'êtes pas à l'aise avec l'utilisation de Git, il est **impératif** d
 ## Date butoir et rendu
 Pour le rendu, utiliser l'interface **Devoirs/Assignments** de vos comptes sur Thor. Vous devez rendre, pour ce TP : 
 
-* un rapport dans un fichier nommé : rapport_ts229_2021.pdf
+* un rapport dans un fichier nommé : rapport_ts229_2122.pdf
 
-* vos codes compressés dans une archive nommée : archive_ts229_2021.tar.gz
+* vos codes compressés dans une archive nommée : archive_ts229_2122.tar.gz
 
-**Vos codes et rapports doivent être rendus avant le 23 octobre 2020.**
+**Vos codes et rapports doivent être rendus avant le 27 octobre 2021.**
