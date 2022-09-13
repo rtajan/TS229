@@ -5,20 +5,6 @@ Tous les fichiers utiles à ce projet sont disponibles aux adresses suivantes :
 
 * [Le sujet complet du TP](https://github.com/rtajan/TS229/blob/master/doc/sujet/sujet.pdf)
 
-* Les différentes tâches à effectuer : 
-[Tâche 1](https://github.com/rtajan/TS229/blob/master/doc/sujet/tache1.pdf) 
-[Tâche 2](https://github.com/rtajan/TS229/blob/master/doc/sujet/tache2.pdf) 
-[Tâche 3](https://github.com/rtajan/TS229/blob/master/doc/sujet/tache3.pdf) 
-[Tâche 4](https://github.com/rtajan/TS229/blob/master/doc/sujet/tache4.pdf)
-[Tâche 5](https://github.com/rtajan/TS229/blob/master/doc/sujet/tache5.pdf)
-[Tâche 6](https://github.com/rtajan/TS229/blob/master/doc/sujet/tache6.pdf)
-[Tâche 7](https://github.com/rtajan/TS229/blob/master/doc/sujet/tache7.pdf)
-[Tâche 8](https://github.com/rtajan/TS229/blob/master/doc/sujet/tache8.pdf)
-[Tâche 9](https://github.com/rtajan/TS229/blob/master/doc/sujet/tache9.pdf)
-[Tâche 10](https://github.com/rtajan/TS229/blob/master/doc/sujet/tache10.pdf) 
-[Tâche 11](https://github.com/rtajan/TS229/blob/master/doc/sujet/tache11.pdf)
-[Tâche 12](https://github.com/rtajan/TS229/blob/master/doc/sujet/tache12.pdf)  
-
 * [Des trames avant démodulation](https://github.com/rtajan/TS229/blob/master/data/buffers.mat)
 
 * [Des messages ADSB](https://github.com/rtajan/TS229/blob/master/data/adsb_msgs.mat)
