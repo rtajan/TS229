@@ -5,14 +5,14 @@ import java.io.*;
 javaaddpath('./Client/javaDataReader');
 
 %% Constants definition
-PORT = 80;
+PORT = 4200;
 
 %% Lancement du server
 socket = Socket (SERVER_ADDRESS,PORT);
 
 output_stream = socket.getOutputStream;
 d_output_stream = DataOutputStream(output_stream);
-d_output_stream.writeBytes(char(sprintf(['GET /adsb\n'])));
+d_output_stream.writeBytes(char(sprintf(['GET /\n'])));
 
 input_stream = socket.getInputStream;
 data_input_stream = DataInputStream(input_stream);
