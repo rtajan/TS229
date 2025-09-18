@@ -34,7 +34,7 @@ où `<user>` et `<repo>` sont vos login et le nom de votre dépôt Git (cf. votr
 ssh ssh.enseirb-matmeca.fr /net/npers/renault/local/bin/init-gitconfig.sh > ~/.gitconfig
 ```
 
-### Ce qui doit être fait lors à chaque séance
+### Ce qui doit être fait à chaque séance
 
 **Pousser** votre travail sur le serveur distant au **minimum à la fin de chaque séance** 
 
