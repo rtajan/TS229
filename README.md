@@ -1,4 +1,4 @@
-# Projet de communications numériques (TS229)
+# Projet de communications numériques
 
 ## Desciption générale
 Tous les fichiers utiles à ce projet sont disponibles aux adresses suivantes :
@@ -46,12 +46,3 @@ Chaque commit devra **impérativement** comporter un message informatif (git com
 
 ### Aide pour Git
 Si vous n'êtes pas à l'aise avec l'utilisation de Git, il est **impératif** de suivre le tutoriel [suivant](http://www.labri.fr/perso/renault/working/teaching/projets/git.php).
-
-## Date butoir et rendu
-Pour le rendu, utiliser l'interface **Devoirs/Assignments** de vos comptes sur Thor. Vous devez rendre, pour ce TP : 
-
-* un rapport dans un fichier nommé : rapport_ts229_2223.pdf
-
-* vos codes compressés dans une archive nommée : archive_ts229_2223.tar.gz
-
-**Vos codes et rapports doivent être rendus avant le 25 octobre 2021.**
