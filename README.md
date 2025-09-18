@@ -31,7 +31,7 @@ où `<user>` et `<repo>` sont vos login et le nom de votre dépôt Git (cf. votr
 **Immédiatement après avoir cloné** votre dépôt Git, mettre à jour votre fichier de configuration Git
 
 ``` 
-ssh ssh.enseirb-matmeca.fr /net/ens/renault/local/bin/init-gitconfig.sh > ~/.gitconfig
+ssh ssh.enseirb-matmeca.fr /net/npers/renault/local/bin/init-gitconfig.sh > ~/.gitconfig
 ```
 
 ### Ce qui doit être fait lors à chaque séance
